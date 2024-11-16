@@ -1,0 +1,23 @@
+﻿@model RinconGuatemaltecoApp.Models.Cliente
+
+<h1>Eliminar Cliente</h1>
+
+<div class="alert alert-danger">
+    <h4>¿Estás seguro que deseas eliminar este cliente?</h4>
+    <p>Esta acción no se puede deshacer.</p>
+</div>
+
+<div>
+    <h3>Detalles del Cliente</h3>
+    <p><strong>ID:</strong> @Model.ClienteID</p>
+    <p><strong>Nombre:</strong> @Model.Nombre</p>
+    <p><strong>Apellido:</strong> @Model.Apellido</p>
+    <p><strong>Teléfono:</strong> @Model.Telefono</p>
+    <p><strong>Correo:</strong> @Model.Correo</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="ClienteID" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

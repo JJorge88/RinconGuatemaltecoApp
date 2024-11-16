@@ -1,0 +1,18 @@
+﻿@model RinconGuatemaltecoApp.Models.DetalleDespacho
+
+<h2>Eliminar Producto del Despacho</h2>
+
+<div>
+    <h4>¿Estás seguro de que deseas eliminar este producto?</h4>
+    <div>
+        <p><strong>Producto:</strong> @Model.Producto.Nombre</p>
+        <p><strong>Cantidad:</strong> @Model.Cantidad</p>
+        <p><strong>Subtotal:</strong> Q@Model.Subtotal.ToString("F2")</p>
+    </div>
+
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="DetalleID" />
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Details" asp-controller="Despachos" asp-route-id="@Model.DespachoID" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

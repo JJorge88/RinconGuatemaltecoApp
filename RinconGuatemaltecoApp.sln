@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RinconGuatemaltecoApp", "RinconGuatemaltecoApp\RinconGuatemaltecoApp.csproj", "{C26C8DFB-226E-4F40-B8E0-B48A8C00AFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26C8DFB-226E-4F40-B8E0-B48A8C00AFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26C8DFB-226E-4F40-B8E0-B48A8C00AFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26C8DFB-226E-4F40-B8E0-B48A8C00AFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26C8DFB-226E-4F40-B8E0-B48A8C00AFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
