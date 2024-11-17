@@ -134,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -159,6 +159,19 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-16T00:07:42.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\RinconGuatemaltecoApp\\RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\RinconGuatemaltecoApp\\RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
+              "RelativeToolTip": "RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T00:07:13.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -207,23 +220,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T21:25:14.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\RinconGuatemaltecoApp\\RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jorge\\source\\repos\\RinconGuatemaltecoApp\\RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
-              "RelativeToolTip": "RinconGuatemaltecoApp\\Views\\clientes\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T00:07:13.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -512,6 +508,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-15T21:29:00.442Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
