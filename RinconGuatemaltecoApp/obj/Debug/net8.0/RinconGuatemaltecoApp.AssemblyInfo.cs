@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RinconGuatemaltecoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6baf7eeb68d22b639cc2ba6ce096884f71581810")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e68ec76b2c75d1b6971863c7144f89ee42c77e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RinconGuatemaltecoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RinconGuatemaltecoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
